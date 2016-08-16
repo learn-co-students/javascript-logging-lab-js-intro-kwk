@@ -1,1 +1,1 @@
-console.error("Helppppppppp")
+console.log("log this")
