@@ -1,1 +1,3 @@
-console.warn("whoops that's not right")
+console.error("Helpppp")
+console.log("log this")
+console.warn("uhoh")
